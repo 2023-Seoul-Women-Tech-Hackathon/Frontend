@@ -1,0 +1,10 @@
+{
+	"editor.quickSuggestions": {
+		"other": "on",
+		"comments": "off",
+		"strings": true,
+	},
+	"tailwindCSS.emmetCompletions": true,
+	"editor.inlineSuggest.enabled": true,
+	"css.validate": false,
+}
