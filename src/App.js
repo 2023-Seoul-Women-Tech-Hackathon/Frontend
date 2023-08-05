@@ -1,12 +1,12 @@
-import { Map } from './components/Map';
 import './App.css';
 import { MobilePreview } from './components/MobilePreview';
+import { SearchShelter } from './pages/SearchShelter';
 
 function App() {
     return (
         <div className="App">
             <MobilePreview>
-                <Map />
+                <SearchShelter />
             </MobilePreview>
         </div>
     );

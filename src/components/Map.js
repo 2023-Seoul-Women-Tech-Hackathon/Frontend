@@ -12,5 +12,5 @@ export const Map = () => {
         new kakao.maps.Map(container, options);
     }, []);
 
-    return <div id="map" className="h-screen w-full"></div>;
+    return <div id="map" className="h-[calc(100vh-2rem)] w-full rounded-[36px]"></div>;
 };
